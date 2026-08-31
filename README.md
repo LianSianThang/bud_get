@@ -1,16 +1,3 @@
-# bud_get
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is about creating a marathon companion application.
+main function will be tracking user's walking speed, how long the distance and time of the walking after pressing the button track.
+mostly the user must be able to share his walk with our pre modified beautifully edited templated of images including the above datas.
